@@ -5,7 +5,6 @@ Created on Mon Jun 20 14:06:49 2022
 
 @author: asus
 """
-# prateek : I am quite sure the code in this cell is correct...
 from selenium import webdriver
 
 from selenium.webdriver.common.keys import Keys
